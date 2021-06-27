@@ -1,8 +1,10 @@
 from django.db import models
 from django.contrib.postgres.fields import ArrayField
+from rest_framework import serializers
 
 
 class Pizza(models.Model):
+  
   name = models.CharField(max_length=200)
   slug = models.SlugField()
   description = models.CharField(max_length=500)
