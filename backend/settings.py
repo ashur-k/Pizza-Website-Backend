@@ -25,7 +25,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-*v(a3df1si^z*#p=-l+jgg4!aw4_5wwzyvh=gu#9uv&ok$-mhf'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 ALLOWED_HOSTS = ['ash-pizza-website.herokuapp.com' ,'localhost', 'http://localhost:3000', '127.0.0.1']
 
 
