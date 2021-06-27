@@ -13,6 +13,7 @@ import django_heroku
 from pathlib import Path
 from decouple import config
 import os
+import dj_database_url
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -81,18 +82,22 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql',
+#         'NAME': 'pizza_db',
+#         'USER': config('DB_NAME'),
+#         'PASSWORD': config('DB_PASSWORD'),
+#         'HOST': 'localhost',
+#         'PORT': '5432'
+#     }
+#     # for later refrence using .env
+#     # 'USER': config('DB_NAME')
+#     # Above DB_NAME is insidede .env file which won't be push to git
+# }
+
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'pizza_db',
-        'USER': config('DB_NAME'),
-        'PASSWORD': config('DB_PASSWORD'),
-        'HOST': 'localhost',
-        'PORT': '5432'
-    }
-    # for later refrence using .env
-    # 'USER': config('DB_NAME')
-    # Above DB_NAME is insidede .env file which won't be push to git
+    'default': dj_database_url.parse('postgres://ievrfszqlmnugm:813e5ffa9e2c534de0333d7bd86e65493025fc1a799678f71f7ab09088696cc8@ec2-54-247-158-179.eu-west-1.compute.amazonaws.com:5432/d1gu1uf3cg3oap')
 }
 
 # Password validation
