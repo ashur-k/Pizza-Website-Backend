@@ -150,12 +150,12 @@ STATIC_FILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-CORS_ORIGIN_ALLOW_ALL = True
+CORS_ORIGIN_ALLOW_ALL = False
 
-# CORS_ORIGIN_WHITELIST = (
-#     'http://localhost:3000',
-#     'http://ashur-resume-2021-nbam74fc0-ashur-k.vercel.app',
+CORS_ORIGIN_WHITELIST = (
+    'http://localhost:3000',
+    'http://ashur-resume-2021-nbam74fc0-ashur-k.vercel.app',
     
-# )
+)
 
 django_heroku.settings(locals())
