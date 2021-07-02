@@ -1,0 +1,10 @@
+I have wrote a resume site backend on my machine, and then I have created another rest 
+framework backend on my  pizza hosted api, this saved me from hosting another backen on heroku
+
+I have use following command to get all my data
+  python manage.py dumpdata --exclude auth.permission --exclude contenttypes > db.json
+my app name here was resume_backend so in db.json I have to change skills with resume_backend
+
+
+I used this command to loaddata after correcting json data
+  python manage.py loaddata data.json
