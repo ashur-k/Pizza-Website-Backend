@@ -42,8 +42,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     'pizza.apps.PizzaConfig',
-    
-   
+    'resume_backend.apps.ResumeBackendConfig',
 ]
 
 MIDDLEWARE = [

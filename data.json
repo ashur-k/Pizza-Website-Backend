@@ -1,0 +1,829 @@
+[
+   {
+      "model":"admin.logentry",
+      "pk":1,
+      "fields":{
+         "action_time":"2021-06-30T14:34:53.195Z",
+         "user":1,
+         "content_type":7,
+         "object_id":"1",
+         "object_repr":"Fronted Development",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":2,
+      "fields":{
+         "action_time":"2021-06-30T14:35:11.855Z",
+         "user":1,
+         "content_type":7,
+         "object_id":"2",
+         "object_repr":"Backend  Development",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":3,
+      "fields":{
+         "action_time":"2021-06-30T14:35:30.879Z",
+         "user":1,
+         "content_type":7,
+         "object_id":"3",
+         "object_repr":"API Development",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":4,
+      "fields":{
+         "action_time":"2021-06-30T14:35:47.119Z",
+         "user":1,
+         "content_type":7,
+         "object_id":"4",
+         "object_repr":"Competitive Coder",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":5,
+      "fields":{
+         "action_time":"2021-06-30T14:36:02.205Z",
+         "user":1,
+         "content_type":7,
+         "object_id":"5",
+         "object_repr":"UI/UX designer",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":6,
+      "fields":{
+         "action_time":"2021-06-30T14:36:19.525Z",
+         "user":1,
+         "content_type":7,
+         "object_id":"6",
+         "object_repr":"Hosting and E-Commerce",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":7,
+      "fields":{
+         "action_time":"2021-06-30T14:38:41.826Z",
+         "user":1,
+         "content_type":8,
+         "object_id":"1",
+         "object_repr":"RR-Cloth",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":8,
+      "fields":{
+         "action_time":"2021-06-30T14:52:45.514Z",
+         "user":1,
+         "content_type":8,
+         "object_id":"2",
+         "object_repr":"Pro-Shop",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":9,
+      "fields":{
+         "action_time":"2021-06-30T14:54:21.965Z",
+         "user":1,
+         "content_type":8,
+         "object_id":"3",
+         "object_repr":"Ash-Crown-Online Shopping",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":10,
+      "fields":{
+         "action_time":"2021-06-30T14:56:27.035Z",
+         "user":1,
+         "content_type":8,
+         "object_id":"4",
+         "object_repr":"Jaxx Productions",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":11,
+      "fields":{
+         "action_time":"2021-06-30T14:59:20.284Z",
+         "user":1,
+         "content_type":8,
+         "object_id":"5",
+         "object_repr":"Car Sales Showroom",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":12,
+      "fields":{
+         "action_time":"2021-06-30T15:00:52.220Z",
+         "user":1,
+         "content_type":8,
+         "object_id":"6",
+         "object_repr":"Bend River Media",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":13,
+      "fields":{
+         "action_time":"2021-06-30T15:02:10.599Z",
+         "user":1,
+         "content_type":8,
+         "object_id":"7",
+         "object_repr":"Monster Rolodex",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":14,
+      "fields":{
+         "action_time":"2021-06-30T15:04:03.979Z",
+         "user":1,
+         "content_type":8,
+         "object_id":"8",
+         "object_repr":"Boutique Ado",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":15,
+      "fields":{
+         "action_time":"2021-06-30T15:14:26.811Z",
+         "user":1,
+         "content_type":8,
+         "object_id":"9",
+         "object_repr":"Covid Pandemic",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":16,
+      "fields":{
+         "action_time":"2021-06-30T15:22:23.664Z",
+         "user":1,
+         "content_type":8,
+         "object_id":"10",
+         "object_repr":"KIRK Grangemouth Church",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":17,
+      "fields":{
+         "action_time":"2021-06-30T15:53:35.775Z",
+         "user":1,
+         "content_type":8,
+         "object_id":"1",
+         "object_repr":"RR-Cloth",
+         "action_flag":2,
+         "change_message":"[{\"changed\": {\"fields\": [\"Category\"]}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":18,
+      "fields":{
+         "action_time":"2021-06-30T15:55:22.590Z",
+         "user":1,
+         "content_type":8,
+         "object_id":"10",
+         "object_repr":"KIRK Grangemouth Church",
+         "action_flag":2,
+         "change_message":"[{\"changed\": {\"fields\": [\"Category\"]}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":19,
+      "fields":{
+         "action_time":"2021-06-30T15:55:48.286Z",
+         "user":1,
+         "content_type":8,
+         "object_id":"6",
+         "object_repr":"Bend River Media",
+         "action_flag":2,
+         "change_message":"[{\"changed\": {\"fields\": [\"Category\"]}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":20,
+      "fields":{
+         "action_time":"2021-06-30T15:55:56.340Z",
+         "user":1,
+         "content_type":8,
+         "object_id":"9",
+         "object_repr":"Covid Pandemic",
+         "action_flag":2,
+         "change_message":"[{\"changed\": {\"fields\": [\"Category\"]}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":21,
+      "fields":{
+         "action_time":"2021-06-30T15:56:31.873Z",
+         "user":1,
+         "content_type":8,
+         "object_id":"5",
+         "object_repr":"Car Sales Showroom",
+         "action_flag":2,
+         "change_message":"[{\"changed\": {\"fields\": [\"Category\"]}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":22,
+      "fields":{
+         "action_time":"2021-06-30T16:20:43.440Z",
+         "user":1,
+         "content_type":8,
+         "object_id":"11",
+         "object_repr":"Meetups",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":23,
+      "fields":{
+         "action_time":"2021-06-30T16:23:39.718Z",
+         "user":1,
+         "content_type":8,
+         "object_id":"12",
+         "object_repr":"Pizza Shop",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":24,
+      "fields":{
+         "action_time":"2021-06-30T16:25:58.800Z",
+         "user":1,
+         "content_type":8,
+         "object_id":"11",
+         "object_repr":"Meetups",
+         "action_flag":2,
+         "change_message":"[]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":25,
+      "fields":{
+         "action_time":"2021-06-30T16:26:54.634Z",
+         "user":1,
+         "content_type":8,
+         "object_id":"11",
+         "object_repr":"Meetups",
+         "action_flag":2,
+         "change_message":"[]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":26,
+      "fields":{
+         "action_time":"2021-06-30T16:27:46.232Z",
+         "user":1,
+         "content_type":8,
+         "object_id":"11",
+         "object_repr":"Meetups",
+         "action_flag":2,
+         "change_message":"[]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":27,
+      "fields":{
+         "action_time":"2021-06-30T16:27:53.880Z",
+         "user":1,
+         "content_type":8,
+         "object_id":"12",
+         "object_repr":"Pizza Shop",
+         "action_flag":2,
+         "change_message":"[{\"changed\": {\"fields\": [\"Category\"]}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":28,
+      "fields":{
+         "action_time":"2021-06-30T16:45:14.488Z",
+         "user":1,
+         "content_type":8,
+         "object_id":"13",
+         "object_repr":"CV Site",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":29,
+      "fields":{
+         "action_time":"2021-07-01T10:21:19.189Z",
+         "user":1,
+         "content_type":9,
+         "object_id":"1",
+         "object_repr":"Python",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":30,
+      "fields":{
+         "action_time":"2021-07-01T10:21:28.072Z",
+         "user":1,
+         "content_type":9,
+         "object_id":"2",
+         "object_repr":"JavaScript",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":31,
+      "fields":{
+         "action_time":"2021-07-01T10:21:40.025Z",
+         "user":1,
+         "content_type":9,
+         "object_id":"3",
+         "object_repr":"React",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":32,
+      "fields":{
+         "action_time":"2021-07-01T10:21:52.572Z",
+         "user":1,
+         "content_type":9,
+         "object_id":"4",
+         "object_repr":"Django",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":33,
+      "fields":{
+         "action_time":"2021-07-01T10:21:54.722Z",
+         "user":1,
+         "content_type":9,
+         "object_id":"5",
+         "object_repr":"Django",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":34,
+      "fields":{
+         "action_time":"2021-07-01T10:22:07.365Z",
+         "user":1,
+         "content_type":9,
+         "object_id":"6",
+         "object_repr":"Bootstrap",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":35,
+      "fields":{
+         "action_time":"2021-07-01T10:22:45.936Z",
+         "user":1,
+         "content_type":10,
+         "object_id":"1",
+         "object_repr":"CSS3",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":36,
+      "fields":{
+         "action_time":"2021-07-01T10:22:58.596Z",
+         "user":1,
+         "content_type":10,
+         "object_id":"2",
+         "object_repr":"Materializecss",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":37,
+      "fields":{
+         "action_time":"2021-07-01T10:23:17.551Z",
+         "user":1,
+         "content_type":10,
+         "object_id":"3",
+         "object_repr":"React-Bootstrap",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"admin.logentry",
+      "pk":38,
+      "fields":{
+         "action_time":"2021-07-01T10:23:28.548Z",
+         "user":1,
+         "content_type":10,
+         "object_id":"4",
+         "object_repr":"Framer Motion",
+         "action_flag":1,
+         "change_message":"[{\"added\": {}}]"
+      }
+   },
+   {
+      "model":"auth.user",
+      "pk":1,
+      "fields":{
+         "password":"pbkdf2_sha256$260000$iXHFe2hrVKAw913zaF1Zrv$CcChDE0xIOGO1fv5teWkk91B3u448klHQ0GaCCnXybs=",
+         "last_login":"2021-06-30T14:34:04.710Z",
+         "is_superuser":true,
+         "username":"ashur",
+         "first_name":"",
+         "last_name":"",
+         "email":"ashurkanwal@yahoo.com",
+         "is_staff":true,
+         "is_active":true,
+         "date_joined":"2021-06-30T14:33:52.889Z",
+         "groups":[
+            
+         ],
+         "user_permissions":[
+            
+         ]
+      }
+   },
+   {
+      "model":"sessions.session",
+      "pk":"9jrjrzpc8gh1bp4ba57ioc5eyojys5jx",
+      "fields":{
+         "session_data":".eJxVjDsOwjAQRO_iGlnxZ4lDSc8ZrPV6FweQI8VJhbg7iZQCpKnmvZm3irguJa6N5zhmdVFGnX67hPTkuoP8wHqfNE11mcekd0UftOnblPl1Pdy_g4KtbGsgb0VAJDjsEcRC4A6cE2bYcgZyRGYQEmddTp4GD53H3Itln0xQny8BWTid:1lybHw:Am4r-PJjpZ_0598H8HJ5r2VG0wEcAymA5GZSeZri-5I",
+         "expire_date":"2021-07-14T14:34:04.841Z"
+      }
+   },
+   {
+      "model":"resume_backend.skills",
+      "pk":1,
+      "fields":{
+         "Icon":"RiComputerLine",
+         "title":"Fronted Development",
+         "about":"I can build a beautiful websites using <b> HTML</b>,<b>CSS</b> and <b>React.js</b>"
+      }
+   },
+   {
+      "model":"resume_backend.skills",
+      "pk":2,
+      "fields":{
+         "Icon":"FaServer",
+         "title":"Backend  Development",
+         "about":"handle database, server, api using <b>Django </b>"
+      }
+   },
+   {
+      "model":"resume_backend.skills",
+      "pk":3,
+      "fields":{
+         "Icon":"AiOutlineApi",
+         "title":"API Development",
+         "about":"I can develop robust REST API using <b>django-rest-api</b>"
+      }
+   },
+   {
+      "model":"resume_backend.skills",
+      "pk":4,
+      "fields":{
+         "Icon":"MdDeveloperMode",
+         "title":"Competitive Coder",
+         "about":"a daily problem solver"
+      }
+   },
+   {
+      "model":"resume_backend.skills",
+      "pk":5,
+      "fields":{
+         "Icon":"AiOutlineAntDesign",
+         "title":"UI/UX designer",
+         "about":"stunning user interface designer using <b>Framer</b>"
+      }
+   },
+   {
+      "model":"resume_backend.skills",
+      "pk":6,
+      "fields":{
+         "Icon":"RiComputerLine",
+         "title":"Hosting and E-Commerce",
+         "about":"Hosting and Ecommerce <b>Stripe</b> <b>Paypal</b> <b>AWS</b> <b>Heroku</b>"
+      }
+   },
+   {
+      "model":"resume_backend.project",
+      "pk":1,
+      "fields":{
+         "name":"RR-Cloth",
+         "image_path":"/images/RR-cloth.png",
+         "description":"RR-Cloth is a fully functional e-commerce site. This site is able to sell products including all its various variants. The site has been developed using HTML5, CSS3, JavaScript, jQuery, Postgres-SQL, Python-Django. It is hosted using Heroku and Amazon web services (AWS). The site is implemented with an order/checkout payment system using Stripe. For reliability, stripe webhooks are implemented to make sure the site doesnÆt lose any order information if there is a system failure at the user end while making a payment.",
+         "category":"[\"django\", \"main-acheivements\"]",
+         "key_techs":"[\"Django\", \"AWS\", \"Heroku\", \"Stripe\", \"AJAX\"]",
+         "deployed_url":"https://rr-cloth.herokuapp.com/",
+         "github_url":"https://github.com/ashur-k/RR-Clothes"
+      }
+   },
+   {
+      "model":"resume_backend.project",
+      "pk":2,
+      "fields":{
+         "name":"Pro-Shop",
+         "image_path":"/images/pro-shop.jpg",
+         "description":"Pro-shop is an e-commerce site that has been developed using HTML5,  CSS3, React, React-Redux, Postgres-SQL, Python-Django Rest Framework. It is hosted using Heroku and Amazon web services (AWS). The site is implemented with an order/checkout payment system using Paypal.",
+         "category":"[\"react\", \"django\"]",
+         "key_techs":"[\"React\", \"Redux\", \"Bootstrap\", \"Django\", \"Postgres\"]",
+         "deployed_url":"https://proshop-ash.herokuapp.com/#/",
+         "github_url":"https://github.com/ashur-k/proshop-ash"
+      }
+   },
+   {
+      "model":"resume_backend.project",
+      "pk":3,
+      "fields":{
+         "name":"Ash-Crown-Online Shopping",
+         "image_path":"/images/crwn.jpg",
+         "description":"Ash-Crown is an e-commerce site that has been developed using HTML5, CSS3, React, React-Redux, Firebase. It is hosted using Heroku. The site is implemented with an order/checkout payment system using stripe. The site is purely built in React and it's an ongoing project which I am hoping to completely finish soon",
+         "category":"[\"react\"]",
+         "key_techs":"[\"React\", \"Redux\", \"Firebase\", \"sass css\"]",
+         "deployed_url":"https://ash-crwn-live.herokuapp.com/",
+         "github_url":"https://github.com/ashur-k/crwn-clothing-v1-follow-along"
+      }
+   },
+   {
+      "model":"resume_backend.project",
+      "pk":4,
+      "fields":{
+         "name":"Jaxx Productions",
+         "image_path":"/images/jaxx.jpg",
+         "description":"Jaxx Productions is built using Html, CSS, JavaScript, and Django",
+         "category":"[\"Django\", \"JavaScript\"]",
+         "key_techs":"[\"Django\", \"JavaScript\"]",
+         "deployed_url":"https://jacxx-productions.herokuapp.com/",
+         "github_url":"https://github.com/ashur-k/E-Commerce-AND-Video-Subscription"
+      }
+   },
+   {
+      "model":"resume_backend.project",
+      "pk":5,
+      "fields":{
+         "name":"Car Sales Showroom",
+         "image_path":"/images/car-sales.png",
+         "description":"Car Sales Showroom is a management system where Admin can manage and book appointments for people who are interested in buying a car. A site user can find a car that they are interested in and then they can book a test drive for that car. The project has been developed using HTML5, CSS3, JSON, JavaScript, jQuery, MongoDB, Python-Flask, and materializecss. The project is hosted using Heroku",
+         "category":"[\"flask\", \"mongo\", \"main-acheivements\"]",
+         "key_techs":"[\"HTML\", \"CSS\", \"JavaScript\", \"materializecss\", \"Python-Flask\"]",
+         "deployed_url":"http://car-sales-showroom.herokuapp.com/index",
+         "github_url":"https://github.com/ashur-k/CI-MS3-Car-Showroom"
+      }
+   },
+   {
+      "model":"resume_backend.project",
+      "pk":6,
+      "fields":{
+         "name":"Bend River Media",
+         "image_path":"/images/benmedia.png",
+         "description":"Bend River Media has been developed for a local photographer and videographer. The site has been developed using HTML5, CSS3, and bootstrap. The project is hosted using GitHub. The site is very detailed and comprehensive and shows all aspects of a business site.",
+         "category":"[\"JavaScript\", \"main-acheivements\"]",
+         "key_techs":"[\"HTML\", \"CSS\", \"Bootstrap\", \"JavaScript\"]",
+         "deployed_url":"https://ashur-k.github.io/Data-Centric-Milestone-Project/",
+         "github_url":"https://github.com/ashur-k/Data-Centric-Milestone-Project"
+      }
+   },
+   {
+      "model":"resume_backend.project",
+      "pk":7,
+      "fields":{
+         "name":"Monster Rolodex",
+         "image_path":"/images/rolodex.jpg",
+         "description":"It's built using react and hosted using Github for learning and training.",
+         "category":"[\"react\"]",
+         "key_techs":"[\"React\", \"Sass css\"]",
+         "deployed_url":"https://ashur-k.github.io/monsters-rolodex/",
+         "github_url":"https://github.com/ashur-k/monsters-rolodex"
+      }
+   },
+   {
+      "model":"resume_backend.project",
+      "pk":8,
+      "fields":{
+         "name":"Boutique Ado",
+         "image_path":"/images/Boutique_ado.png",
+         "description":"Boutique-ado is an e-commerce site that has been developed using HTML5, CSS3, JavaScript, jQuery, Postgres-SQL, Python-Django. It is hosted using Heroku and Amazon web services (AWS). The site is implemented with an order/checkout payment system using Stripe. For reliability, stripe webhooks are implemented to make sure the site doesnÆt lose any order information if there is a system failure at the user end while making a payment.",
+         "category":"[\"django\"]",
+         "key_techs":"[\"HTML\", \"CSS\", \"Bootstrap\", \"Django\", \"Stripe\"]",
+         "deployed_url":"https://boutique-ado-ash.herokuapp.com/",
+         "github_url":"https://github.com/ashur-k/bouttique_ado_v1"
+      }
+   },
+   {
+      "model":"resume_backend.project",
+      "pk":9,
+      "fields":{
+         "name":"Covid Pandemic",
+         "image_path":"/images/covid.png",
+         "description":"Covid Pandemic is a site that provides information statistics of Covid cases around the world. The site has been developed using HTML5, CSS3, JavaScript, jQuery, Rapid-API, JSON, Charts, and bootstrap. The project is hosted using GitHub.",
+         "category":"[\"JavaScript\", \"main-acheivements\"]",
+         "key_techs":"[\"JavaScript\", \"HTML\", \"CSS\"]",
+         "deployed_url":"https://ashur-k.github.io/Interactive-Frontend-Development_-Milestone-Project/",
+         "github_url":"https://github.com/ashur-k/Interactive-Frontend-Development_-Milestone-Project"
+      }
+   },
+   {
+      "model":"resume_backend.project",
+      "pk":10,
+      "fields":{
+         "name":"KIRK Grangemouth Church",
+         "image_path":"/images/Kirk.jpg",
+         "description":"Kirk of the Holy Rood is an e-commerce site that has been developed using HTML5, CSS3, JavaScript, jQuery, Postgres-SQL, Python-Django. It is hosted using Heroku and Amazon web services (AWS). The site is implemented with a Stripe payment system to collect donations and sell events. Youtube videos can be linked on to the site for display and Admin can update content, change site Color theme, and can add new ministry pages, with his username/password",
+         "category":"[\"django\", \"main-acheivements\"]",
+         "key_techs":"[\"HTML\", \"CSS\", \"Bootstrap\", \"JavaScript\", \"Django\", \"Stripe\"]",
+         "deployed_url":"https://kirk-of-the-holy-rood-church.herokuapp.com/",
+         "github_url":"https://github.com/ashur-k/-Kirk-of-the-Holy-Rood-Church"
+      }
+   },
+   {
+      "model":"resume_backend.project",
+      "pk":11,
+      "fields":{
+         "name":"Meetups",
+         "image_path":"/images/meetups.png",
+         "description":"I made this website to practice my Next JS skills. This is a simple Website with some CRUD functionality. The site is NEXT JS frontend with MongoDB database in the backend. This project really helped me to understand  Next JS",
+         "category":"[\"nextjs\", \"mongo\"]",
+         "key_techs":"[\"Next-JS\", \"MongoDB\"]",
+         "deployed_url":"https://next-js-course-lyart.vercel.app/",
+         "github_url":"https://github.com/ashur-k/Next-JS-Meetups-Project"
+      }
+   },
+   {
+      "model":"resume_backend.project",
+      "pk":12,
+      "fields":{
+         "name":"Pizza Shop",
+         "image_path":"/images/pizza.png",
+         "description":"I made this website to practice my Next JS skills. This is a simple Website with some CRUD functionality. The site is NEXT JS frontend with Django backend. This project really helped me to understand how Next JS and Django worked together.",
+         "category":"[\"nextjs\", \"django\"]",
+         "key_techs":"[\"Next-JS\", \"Django\"]",
+         "deployed_url":"https://pizza-website-mu.vercel.app/",
+         "github_url":"https://github.com/ashur-k/Pizza-Website"
+      }
+   },
+   {
+      "model":"resume_backend.project",
+      "pk":13,
+      "fields":{
+         "name":"CV Site",
+         "image_path":"/images/CV.png",
+         "description":"This site is made using Typescript, Tailwindcss, Next JS, and Django. For the front-end, I have used a youtube video tutorial and wrote all codes while watching the video. I have updated front-end codes where I needed to refactor things for myself. In end, I have coded Django rest framework API to provide a backend. It was a good experience, changing static hardcoded data with Django rest framework dynamic data. It helped me to understand typescript and maintaining code when we are writing typescript.",
+         "category":"[\"typescript\", \"django\"]",
+         "key_techs":"[\"Typescript\", \"Next JS\", \"Django\", \"Tailwindcss\"]",
+         "deployed_url":"https://ashur-resume-2021.vercel.app/",
+         "github_url":"https://github.com/ashur-k/Ashur-Resume"
+      }
+   },
+   {
+      "model":"resume_backend.language",
+      "pk":1,
+      "fields":{
+         "name":"Python",
+         "level":"70"
+      }
+   },
+   {
+      "model":"resume_backend.language",
+      "pk":2,
+      "fields":{
+         "name":"JavaScript",
+         "level":"70"
+      }
+   },
+   {
+      "model":"resume_backend.language",
+      "pk":3,
+      "fields":{
+         "name":"React",
+         "level":"70"
+      }
+   },
+   {
+      "model":"resume_backend.language",
+      "pk":4,
+      "fields":{
+         "name":"Django",
+         "level":"60"
+      }
+   },
+   {
+      "model":"resume_backend.language",
+      "pk":5,
+      "fields":{
+         "name":"Django",
+         "level":"60"
+      }
+   },
+   {
+      "model":"resume_backend.language",
+      "pk":6,
+      "fields":{
+         "name":"Bootstrap",
+         "level":"80"
+      }
+   },
+   {
+      "model":"resume_backend.tool",
+      "pk":1,
+      "fields":{
+         "name":"CSS3",
+         "level":"75"
+      }
+   },
+   {
+      "model":"resume_backend.tool",
+      "pk":2,
+      "fields":{
+         "name":"Materializecss",
+         "level":"85"
+      }
+   },
+   {
+      "model":"resume_backend.tool",
+      "pk":3,
+      "fields":{
+         "name":"React-Bootstrap",
+         "level":"60"
+      }
+   },
+   {
+      "model":"resume_backend.tool",
+      "pk":4,
+      "fields":{
+         "name":"Framer Motion",
+         "level":"55"
+      }
+   }
+]

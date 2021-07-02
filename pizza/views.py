@@ -11,7 +11,13 @@ from . models import Pizza
 @api_view(['GET'])
 def getRoutes(request):
     routes = [
-        '/api/pizzas/'
+        '/api/pizzas/',
+        '/Fore Resume Site Data Please use following urls/',
+        '/api/skills',
+        '/api/projects',
+        '/api/languages/',
+        '/api/tools',
+        
     ]
     
     return Response(routes)
