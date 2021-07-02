@@ -154,7 +154,7 @@ CORS_ORIGIN_ALLOW_ALL = False
 
 CORS_ORIGIN_WHITELIST = (
     'http://localhost:3000',
-    'http://ashur-resume-2021-nbam74fc0-ashur-k.vercel.app',
+    'https://ashur-resume-2021-nbam74fc0-ashur-k.vercel.app',
     
 )
 
